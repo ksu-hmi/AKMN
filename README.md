@@ -11,6 +11,7 @@ Project Goal:
 
 Why the project is useful:
 
+Overall, the combination of data from a smart device and an AI automated dashboard can revolutionize the way individuals approach their fitness journeys, making it more personalized, efficient, and informed.
 
 
 How users can contribute to the project:
