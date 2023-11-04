@@ -1,4 +1,4 @@
-# AKMN
+# FitGenius
 
 ## Introduction:
 - Usefulness of smart devices
@@ -13,9 +13,10 @@
 - Overall, the combination of data from a smart device and an AI automated dashboard can revolutionize the way individuals approach their fitness journeys, making it more personalized, efficient, and informed.
 
 
-## How users can contribute to the project:
-- 
 
-
-## Who maintains and contributes to the project:
-- This project's original contributors are HMI graduate students of Kennesaw State University: Andre Derilus, Kameron Jackson, Mariah Hubbard, and Nathaniel Blackmon.
+## Contibuters: 
+This project's original contributors are graduate students from Kennesaw State University's Healthcare Management and Informatics program:
+- Andre Derilus
+- Kameron Jackson
+- Mariah Hubbard
+- Nathaniel Blackmon
